@@ -1,7 +1,7 @@
 # Password-Management-System-with-Stream-Cipher
 <h3>A secure and user-friendly password management system with encryption and key derivation</h3>
 
-**A Secure and Easy-to-Use Password Management System designed to protect your valuable passwords. With strong encryption and key derivation techniques, it ensures that your passwords remain confidential and easily accessible only to you.**
+**A Secure and Easy-to-Use Password Management System designed to protect your valuable passwords for all your applications. With strong encryption and key derivation techniques, it ensures that your passwords remain confidential and easily accessible only to you.**
 
 **Features:**
 <ul>
