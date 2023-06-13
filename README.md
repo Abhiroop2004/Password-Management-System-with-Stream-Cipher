@@ -21,4 +21,4 @@
 <li>Remember to keep your master password confidential and secure. It cannot be recovered or reset, so make sure to choose a strong and memorable password.
 </ol>
 
-**We are committed to maintaining the highest standards of security and privacy in our Password management system. If you have any questions or suggestions, please feel free to reach out to me.**
+**This Project shows the demonstration of Stream Ciphers and KDF: PBKDF2 in a Password management system. If you have any questions or suggestions, please feel free to reach out to me.**
