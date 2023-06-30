@@ -16,7 +16,7 @@
 <ol>
 <li>Clone the repository to your local machine.
 <li>Install the required dependencies by running 'pip install -r requirements.txt'.
-<li>Launch application and follow the prompts to set up your master password.
+<li>Launch the application and follow the prompts to set up your master password.
 <li>Begin securely adding, retrieving, and updating your passwords within the system.
 <li>Remember to keep your master password confidential and secure. It cannot be recovered or reset, so make sure to choose a strong and memorable password.
 </ol>
